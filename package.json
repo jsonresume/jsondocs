@@ -1,22 +1,26 @@
 {
-  "name": "jsonschema-docs",
+  "name": "jsondocs",
   "version": "0.0.0",
-  "description": "jsonschema-docs ===============",
+  "description": "Generate simple documentation for your JSON schema",
   "main": "parser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jsonresume/jsonschema-docs.git"
+    "url": "git://github.com/jsonresume/jsondocs.git"
   },
-  "author": "",
+  "author": "Thomas Davis <thomasalwyndavis@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsonresume/jsonschema-docs/issues"
+    "url": "https://github.com/jsonresume/jsondocs/issues"
   },
-  "homepage": "https://github.com/jsonresume/jsonschema-docs",
+  "homepage": "https://github.com/jsonresume/jsondocs",
   "dependencies": {
     "lodash": "^2.4.1"
-  }
+  },
+  "bin": {
+        "jsondocs": "parser.js"
+  },
+  "preferGlobal": true
 }
