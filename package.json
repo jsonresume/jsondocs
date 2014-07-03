@@ -1,0 +1,22 @@
+{
+  "name": "jsonschema-docs",
+  "version": "0.0.0",
+  "description": "jsonschema-docs ===============",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsonresume/jsonschema-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonresume/jsonschema-docs/issues"
+  },
+  "homepage": "https://github.com/jsonresume/jsonschema-docs",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
