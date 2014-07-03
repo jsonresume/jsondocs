@@ -1,6 +1,6 @@
 ## JsonDocs
 
-JsonDocs is a NPM module that generates minimalistic documentation for a given JSON schema.
+JsonDocs is a NPM module that generates minimalistic documentation for a given JSON schema. You can view an example [here](http://codepen.io/thomasdavis/pen/jBrya)
 
 ### Getting started
 
