@@ -1,5 +1,7 @@
 ## JsonDocs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jsonresume/jsondocs.svg)](https://greenkeeper.io/)
+
 JsonDocs is a NPM module that generates minimalistic documentation for a given JSON schema. You can view an example [here](http://codepen.io/thomasdavis/pen/jBrya)
 
 ### Getting started
